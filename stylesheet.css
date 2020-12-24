@@ -1,0 +1,58 @@
+body {
+  font-family: "Times New Roman";
+padding: 0px;
+margin: 0px;
+}
+
+.header-logo{
+    font-size:40px;
+background-color:gold;
+color: orangered;
+margin-top: 0px;
+padding-top: 0px;
+height: 150px;
+width: 500px;
+
+
+}
+
+.box{
+  display :inline-flex;
+}
+
+
+.box1{
+  float: right;
+  margin-top: 0px;
+  padding-top: 0px;
+
+}
+
+.content{
+
+  margin-left: 500px;
+
+}
+.section-title{
+  font-size: 50px;
+  color: white;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.content-item{
+  color: white;
+}
+.li{
+  list-style: none;
+}
+
+.project{
+  font-size: 40px;
+  color: yellow;
+
+}
+
+.project-title{
+  font-size: 30px;
+  color: darkorange;
+}

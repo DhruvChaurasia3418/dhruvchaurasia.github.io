@@ -1,0 +1,45 @@
+.header-logo{
+    font-size: 35px;
+    color: deeppink;
+    font-style: initial;
+}
+
+.content{
+    font-size: 30px;
+    color: yellow;
+font-style: oblique;
+
+}
+
+.content1{
+    font-size: 25px;
+    font-style: oblique;
+    color:rgb(8, 181, 224);
+
+}
+
+.content2{
+    font-size: 30px;
+    font-style: initial;
+    color:yellow;
+
+}
+
+.content3{
+    font-size: 25px;
+    font-style: oblique;
+    color: lawngreen;
+}
+.content-item1{
+    color: red;
+}
+
+.content-item2{
+    color: rgb(196, 13, 196);
+font-size: 60px;
+}
+
+.footer{
+    color: white;
+    font-size: 27px;
+}

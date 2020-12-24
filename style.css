@@ -1,0 +1,42 @@
+body{background-size: cover;
+  background-attachment: fixed;  
+
+}
+
+.header-logo{
+    font-size: 60px;
+    color: rgb(247, 179, 7);
+    font-style: unset;
+}
+
+.content{
+    font-size: 30px;
+    color: rgb(0, 250, 12);
+}
+
+.content1{
+    font-size:25px ;
+    color: rgb(8, 213, 240);
+}
+
+.content2{
+    font-size: 25px;
+    color: rgb(150, 9, 150);
+}
+
+.content3{
+    font-size: 30px;
+    color:rgb(0, 250, 12) ;
+
+}
+
+.content4{
+    font-size: 25px;
+    color: rgb(8, 213, 240);
+}
+
+.content5{
+    font-size: 25px;
+    color: rgb(243, 9, 9);
+
+}
